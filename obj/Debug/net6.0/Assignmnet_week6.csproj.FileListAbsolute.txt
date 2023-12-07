@@ -1,0 +1,14 @@
+D:\Dotnet\Assignmnet_week6\bin\Debug\net6.0\Assignmnet_week6.exe
+D:\Dotnet\Assignmnet_week6\bin\Debug\net6.0\Assignmnet_week6.deps.json
+D:\Dotnet\Assignmnet_week6\bin\Debug\net6.0\Assignmnet_week6.runtimeconfig.json
+D:\Dotnet\Assignmnet_week6\bin\Debug\net6.0\Assignmnet_week6.dll
+D:\Dotnet\Assignmnet_week6\bin\Debug\net6.0\Assignmnet_week6.pdb
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.AssemblyInfoInputs.cache
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.AssemblyInfo.cs
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.csproj.CoreCompileInputs.cache
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.dll
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\refint\Assignmnet_week6.dll
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.pdb
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\Assignmnet_week6.genruntimeconfig.cache
+D:\Dotnet\Assignmnet_week6\obj\Debug\net6.0\ref\Assignmnet_week6.dll
